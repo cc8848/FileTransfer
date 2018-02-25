@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="commons-logging-1.1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-net-ftp-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/esb_gateway.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/esb_out.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/framework3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsch-0.1.51.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.5.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-log4j12-1.5.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
